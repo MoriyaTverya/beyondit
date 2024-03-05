@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/beyondit/static/css/main.dffb116d.css",
-    "main.js": "/beyondit/static/js/main.032c0a22.js",
+    "main.js": "/beyondit/static/js/main.072c86ad.js",
     "static/js/787.d4aba7ab.chunk.js": "/beyondit/static/js/787.d4aba7ab.chunk.js",
     "static/media/logo.svg": "/beyondit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/beyondit/index.html",
     "main.dffb116d.css.map": "/beyondit/static/css/main.dffb116d.css.map",
-    "main.032c0a22.js.map": "/beyondit/static/js/main.032c0a22.js.map",
+    "main.072c86ad.js.map": "/beyondit/static/js/main.072c86ad.js.map",
     "787.d4aba7ab.chunk.js.map": "/beyondit/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dffb116d.css",
-    "static/js/main.032c0a22.js"
+    "static/js/main.072c86ad.js"
   ]
 }
